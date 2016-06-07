@@ -70,8 +70,6 @@
 		F65166611D06D7D6003F7183 /* NSDictionary+SRHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165E01D06D7D6003F7183 /* NSDictionary+SRHelper.m */; };
 		F65166621D06D7D6003F7183 /* SRCategoryService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165E31D06D7D6003F7183 /* SRCategoryService.h */; };
 		F65166631D06D7D6003F7183 /* SRCategoryService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165E41D06D7D6003F7183 /* SRCategoryService.m */; };
-		F65166641D06D7D6003F7183 /* SRBrokeService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165E61D06D7D6003F7183 /* SRBrokeService.h */; };
-		F65166651D06D7D6003F7183 /* SRBrokeService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165E71D06D7D6003F7183 /* SRBrokeService.m */; };
 		F65166661D06D7D6003F7183 /* SRContentService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165E91D06D7D6003F7183 /* SRContentService.h */; };
 		F65166671D06D7D6003F7183 /* SRContentService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165EA1D06D7D6003F7183 /* SRContentService.m */; };
 		F65166681D06D7D6003F7183 /* SRDataException.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165EC1D06D7D6003F7183 /* SRDataException.h */; };
@@ -80,16 +78,6 @@
 		F651666B1D06D7D6003F7183 /* SRHomeService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165F01D06D7D6003F7183 /* SRHomeService.m */; };
 		F651666C1D06D7D6003F7183 /* SRMemberService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165F21D06D7D6003F7183 /* SRMemberService.h */; };
 		F651666D1D06D7D6003F7183 /* SRMemberService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165F31D06D7D6003F7183 /* SRMemberService.m */; };
-		F651666E1D06D7D6003F7183 /* SRActivityService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165F51D06D7D6003F7183 /* SRActivityService.h */; };
-		F651666F1D06D7D6003F7183 /* SRActivityService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165F61D06D7D6003F7183 /* SRActivityService.m */; };
-		F65166701D06D7D6003F7183 /* SRPm9Service.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165F71D06D7D6003F7183 /* SRPm9Service.h */; };
-		F65166711D06D7D6003F7183 /* SRPm9Service.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165F81D06D7D6003F7183 /* SRPm9Service.m */; };
-		F65166721D06D7D6003F7183 /* SRProductService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165FA1D06D7D6003F7183 /* SRProductService.h */; };
-		F65166731D06D7D6003F7183 /* SRProductService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165FB1D06D7D6003F7183 /* SRProductService.m */; };
-		F65166741D06D7D6003F7183 /* SRPublicTestService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65165FD1D06D7D6003F7183 /* SRPublicTestService.h */; };
-		F65166751D06D7D6003F7183 /* SRPublicTestService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65165FE1D06D7D6003F7183 /* SRPublicTestService.m */; };
-		F65166761D06D7D6003F7183 /* SRSkinTestService.h in Headers */ = {isa = PBXBuildFile; fileRef = F65166001D06D7D6003F7183 /* SRSkinTestService.h */; };
-		F65166771D06D7D6003F7183 /* SRSkinTestService.m in Sources */ = {isa = PBXBuildFile; fileRef = F65166011D06D7D6003F7183 /* SRSkinTestService.m */; };
 		F65166781D06D7D6003F7183 /* SRDataDef.h in Headers */ = {isa = PBXBuildFile; fileRef = F65166021D06D7D6003F7183 /* SRDataDef.h */; };
 		F65166791D06D7D6003F7183 /* SRDataDef.m in Sources */ = {isa = PBXBuildFile; fileRef = F65166031D06D7D6003F7183 /* SRDataDef.m */; };
 		F651667A1D06D7D6003F7183 /* SRDataManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F65166041D06D7D6003F7183 /* SRDataManager.h */; };
@@ -188,8 +176,6 @@
 		F65165E01D06D7D6003F7183 /* NSDictionary+SRHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+SRHelper.m"; sourceTree = "<group>"; };
 		F65165E31D06D7D6003F7183 /* SRCategoryService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRCategoryService.h; sourceTree = "<group>"; };
 		F65165E41D06D7D6003F7183 /* SRCategoryService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRCategoryService.m; sourceTree = "<group>"; };
-		F65165E61D06D7D6003F7183 /* SRBrokeService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRBrokeService.h; sourceTree = "<group>"; };
-		F65165E71D06D7D6003F7183 /* SRBrokeService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRBrokeService.m; sourceTree = "<group>"; };
 		F65165E91D06D7D6003F7183 /* SRContentService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRContentService.h; sourceTree = "<group>"; };
 		F65165EA1D06D7D6003F7183 /* SRContentService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRContentService.m; sourceTree = "<group>"; };
 		F65165EC1D06D7D6003F7183 /* SRDataException.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRDataException.h; sourceTree = "<group>"; };
@@ -198,16 +184,6 @@
 		F65165F01D06D7D6003F7183 /* SRHomeService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRHomeService.m; sourceTree = "<group>"; };
 		F65165F21D06D7D6003F7183 /* SRMemberService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRMemberService.h; sourceTree = "<group>"; };
 		F65165F31D06D7D6003F7183 /* SRMemberService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRMemberService.m; sourceTree = "<group>"; };
-		F65165F51D06D7D6003F7183 /* SRActivityService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRActivityService.h; sourceTree = "<group>"; };
-		F65165F61D06D7D6003F7183 /* SRActivityService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRActivityService.m; sourceTree = "<group>"; };
-		F65165F71D06D7D6003F7183 /* SRPm9Service.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRPm9Service.h; sourceTree = "<group>"; };
-		F65165F81D06D7D6003F7183 /* SRPm9Service.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRPm9Service.m; sourceTree = "<group>"; };
-		F65165FA1D06D7D6003F7183 /* SRProductService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRProductService.h; sourceTree = "<group>"; };
-		F65165FB1D06D7D6003F7183 /* SRProductService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRProductService.m; sourceTree = "<group>"; };
-		F65165FD1D06D7D6003F7183 /* SRPublicTestService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRPublicTestService.h; sourceTree = "<group>"; };
-		F65165FE1D06D7D6003F7183 /* SRPublicTestService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRPublicTestService.m; sourceTree = "<group>"; };
-		F65166001D06D7D6003F7183 /* SRSkinTestService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRSkinTestService.h; sourceTree = "<group>"; };
-		F65166011D06D7D6003F7183 /* SRSkinTestService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRSkinTestService.m; sourceTree = "<group>"; };
 		F65166021D06D7D6003F7183 /* SRDataDef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRDataDef.h; sourceTree = "<group>"; };
 		F65166031D06D7D6003F7183 /* SRDataDef.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRDataDef.m; sourceTree = "<group>"; };
 		F65166041D06D7D6003F7183 /* SRDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRDataManager.h; sourceTree = "<group>"; };
@@ -440,15 +416,10 @@
 			isa = PBXGroup;
 			children = (
 				F65165E21D06D7D6003F7183 /* Articles */,
-				F65165E51D06D7D6003F7183 /* Broke */,
 				F65165E81D06D7D6003F7183 /* Content */,
 				F65165EB1D06D7D6003F7183 /* Excpetion */,
 				F65165EE1D06D7D6003F7183 /* Home */,
 				F65165F11D06D7D6003F7183 /* Member */,
-				F65165F41D06D7D6003F7183 /* Pm9 */,
-				F65165F91D06D7D6003F7183 /* Product */,
-				F65165FC1D06D7D6003F7183 /* PublicTest */,
-				F65165FF1D06D7D6003F7183 /* SkinTest */,
 				F65166021D06D7D6003F7183 /* SRDataDef.h */,
 				F65166031D06D7D6003F7183 /* SRDataDef.m */,
 				F65166041D06D7D6003F7183 /* SRDataManager.h */,
@@ -468,15 +439,6 @@
 				F65165E41D06D7D6003F7183 /* SRCategoryService.m */,
 			);
 			path = Articles;
-			sourceTree = "<group>";
-		};
-		F65165E51D06D7D6003F7183 /* Broke */ = {
-			isa = PBXGroup;
-			children = (
-				F65165E61D06D7D6003F7183 /* SRBrokeService.h */,
-				F65165E71D06D7D6003F7183 /* SRBrokeService.m */,
-			);
-			path = Broke;
 			sourceTree = "<group>";
 		};
 		F65165E81D06D7D6003F7183 /* Content */ = {
@@ -513,44 +475,6 @@
 				F65165F31D06D7D6003F7183 /* SRMemberService.m */,
 			);
 			path = Member;
-			sourceTree = "<group>";
-		};
-		F65165F41D06D7D6003F7183 /* Pm9 */ = {
-			isa = PBXGroup;
-			children = (
-				F65165F51D06D7D6003F7183 /* SRActivityService.h */,
-				F65165F61D06D7D6003F7183 /* SRActivityService.m */,
-				F65165F71D06D7D6003F7183 /* SRPm9Service.h */,
-				F65165F81D06D7D6003F7183 /* SRPm9Service.m */,
-			);
-			path = Pm9;
-			sourceTree = "<group>";
-		};
-		F65165F91D06D7D6003F7183 /* Product */ = {
-			isa = PBXGroup;
-			children = (
-				F65165FA1D06D7D6003F7183 /* SRProductService.h */,
-				F65165FB1D06D7D6003F7183 /* SRProductService.m */,
-			);
-			path = Product;
-			sourceTree = "<group>";
-		};
-		F65165FC1D06D7D6003F7183 /* PublicTest */ = {
-			isa = PBXGroup;
-			children = (
-				F65165FD1D06D7D6003F7183 /* SRPublicTestService.h */,
-				F65165FE1D06D7D6003F7183 /* SRPublicTestService.m */,
-			);
-			path = PublicTest;
-			sourceTree = "<group>";
-		};
-		F65165FF1D06D7D6003F7183 /* SkinTest */ = {
-			isa = PBXGroup;
-			children = (
-				F65166001D06D7D6003F7183 /* SRSkinTestService.h */,
-				F65166011D06D7D6003F7183 /* SRSkinTestService.m */,
-			);
-			path = SkinTest;
 			sourceTree = "<group>";
 		};
 		F65166081D06D7D6003F7183 /* Trainings */ = {
@@ -638,11 +562,8 @@
 				F65166851D06D7D6003F7183 /* RKSerialization.h in Headers */,
 				F651648F1D06D3B5003F7183 /* SRVender.h in Headers */,
 				F65166781D06D7D6003F7183 /* SRDataDef.h in Headers */,
-				F65166721D06D7D6003F7183 /* SRProductService.h in Headers */,
 				F651668A1D06D7D6003F7183 /* SRDictionaryUtilities.h in Headers */,
 				F651666C1D06D7D6003F7183 /* SRMemberService.h in Headers */,
-				F65166701D06D7D6003F7183 /* SRPm9Service.h in Headers */,
-				F65166761D06D7D6003F7183 /* SRSkinTestService.h in Headers */,
 				F651667E1D06D7D6003F7183 /* SRTrainingPlan.h in Headers */,
 				F65166451D06D7D6003F7183 /* UIKit+AFNetworking.h in Headers */,
 				F651663D1D06D7D6003F7183 /* UIActivityIndicatorView+AFNetworking.h in Headers */,
@@ -654,19 +575,16 @@
 				F65166821D06D7D6003F7183 /* SRWelfareService.h in Headers */,
 				F65166901D06D7D6003F7183 /* CUIKit.h in Headers */,
 				F651665E1D06D7D6003F7183 /* SSKeychain.h in Headers */,
-				F65166641D06D7D6003F7183 /* SRBrokeService.h in Headers */,
 				F65166581D06D7D6003F7183 /* NSDictionary+STHelper-Prefix.pch in Headers */,
 				F65166931D06D7D6003F7183 /* YALSunnyRefreshControl.h in Headers */,
 				F651664A1D06D7D6003F7183 /* UIWebView+AFNetworking.h in Headers */,
 				F65166681D06D7D6003F7183 /* SRDataException.h in Headers */,
 				F65166521D06D7D6003F7183 /* SRVendor.h in Headers */,
-				F65166741D06D7D6003F7183 /* SRPublicTestService.h in Headers */,
 				F651666A1D06D7D6003F7183 /* SRHomeService.h in Headers */,
 				F65166331D06D7D6003F7183 /* AFURLRequestSerialization.h in Headers */,
 				F651668E1D06D7D6003F7183 /* CUIEnginer.h in Headers */,
 				F651667A1D06D7D6003F7183 /* SRDataManager.h in Headers */,
 				F65166281D06D7D6003F7183 /* AFHTTPRequestOperationManager.h in Headers */,
-				F651666E1D06D7D6003F7183 /* SRActivityService.h in Headers */,
 				F65166841D06D7D6003F7183 /* SRKit.h in Headers */,
 				F651664C1D06D7D6003F7183 /* AppConfig.h in Headers */,
 				F651662A1D06D7D6003F7183 /* AFHTTPSessionManager.h in Headers */,
@@ -763,11 +681,8 @@
 				F65166941D06D7D6003F7183 /* YALSunnyRefreshControl.m in Sources */,
 				F65166471D06D7D6003F7183 /* UIProgressView+AFNetworking.m in Sources */,
 				F651668B1D06D7D6003F7183 /* SRDictionaryUtilities.m in Sources */,
-				F65166751D06D7D6003F7183 /* SRPublicTestService.m in Sources */,
-				F65166771D06D7D6003F7183 /* SRSkinTestService.m in Sources */,
 				F65166831D06D7D6003F7183 /* SRWelfareService.m in Sources */,
 				F65166891D06D7D6003F7183 /* SRDeviceUtilties.m in Sources */,
-				F65166711D06D7D6003F7183 /* SRPm9Service.m in Sources */,
 				F65166611D06D7D6003F7183 /* NSDictionary+SRHelper.m in Sources */,
 				F65166381D06D7D6003F7183 /* AFURLSessionManager.m in Sources */,
 				F651664B1D06D7D6003F7183 /* UIWebView+AFNetworking.m in Sources */,
@@ -782,10 +697,8 @@
 				F65166421D06D7D6003F7183 /* UIButton+AFNetworking.m in Sources */,
 				F651665A1D06D7D6003F7183 /* NSDictionary+STHelper.m in Sources */,
 				F65166541D06D7D6003F7183 /* AppResource.m in Sources */,
-				F65166651D06D7D6003F7183 /* SRBrokeService.m in Sources */,
 				F651667B1D06D7D6003F7183 /* SRDataManager.m in Sources */,
 				F651664D1D06D7D6003F7183 /* AppConfig.m in Sources */,
-				F65166731D06D7D6003F7183 /* SRProductService.m in Sources */,
 				F651667D1D06D7D6003F7183 /* SRWebService.m in Sources */,
 				F651667F1D06D7D6003F7183 /* SRTrainingPlan.m in Sources */,
 				F65166691D06D7D6003F7183 /* SRDataException.m in Sources */,
@@ -809,7 +722,6 @@
 				F65166921D06D7D6003F7183 /* WCAlertView.m in Sources */,
 				F65166361D06D7D6003F7183 /* AFURLResponseSerialization.m in Sources */,
 				F65166271D06D7D6003F7183 /* AFHTTPRequestOperation.m in Sources */,
-				F651666F1D06D7D6003F7183 /* SRActivityService.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
